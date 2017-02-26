@@ -9,8 +9,12 @@
     "url-loader": "^0.5.8",
     "webpack": "^2.2.1",
     "webpack-dev-middleware": "^1.10.1",
+<<<<<<< HEAD
     "webpack-dev-server": "^2.4.1",
     "json-server": "0.9.5"
+=======
+    "webpack-dev-server": "^2.4.1"
+>>>>>>> 4121435cd3af42af85809f9c119f3b90688dfeee
   },
   "scripts": {
     "api": "node api.js",
